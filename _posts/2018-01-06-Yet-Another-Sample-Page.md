@@ -1,5 +1,5 @@
 ---
-title: Yet Another Sample Page
+title: Welcome to My Blog
 published: true
 ---
 
